@@ -25,4 +25,6 @@ The first request may take 30 seconds, the rest no more than 2 seconds.
 Response example
 > {"category":"Городская территория","executor":"Управление благоустройства города","theme":"Не работает уличное освещение"}  
 
-*"Городская территория" = "Territory of the city", "Управление благоустройства города" = "Department of city development", "Не работает уличное освещение" = "Street lighting doesn't work"*
+*"Городская территория" = "Territory of the city", "Управление благоустройства города" = "Department of city development", "Не работает уличное освещение" = "Street lighting doesn't work"*  
+
+Source json file used for training model is not attached.
